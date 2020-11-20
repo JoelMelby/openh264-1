@@ -1,0 +1,12 @@
+Source: openh264
+Priority: optional
+Maintainer: Kurento <kurento@googlegroups.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 4.0.0
+
+Package: openh264
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends},
+ ${misc:Depends}
+Description: H.264 Video Codec provided by Cisco Systems, Inc.

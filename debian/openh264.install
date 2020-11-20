@@ -1,0 +1,2 @@
+codec/api/svc/*.h /usr/include/wels/
+openh264.pc /usr/lib/aarch64-linux-gnu/pkgconfig/
